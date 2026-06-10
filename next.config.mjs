@@ -6,8 +6,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/fahrnex.github.io',
-  assetPrefix: '/fahrnex.github.io/',
+  /* basePath: '/fahrnex.github.io',
+  assetPrefix: '/fahrnex.github.io/', */
 }
 
 export default nextConfig
